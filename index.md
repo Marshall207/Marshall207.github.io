@@ -10,5 +10,5 @@ This is the start of my site.
 - **Automation** – Fixtures and lab process improvements.
 
 ## Resume
-[Download my resume](resume/ThomasMarshall_Resume.pdf)
+[Download my resume](resume/Thomas_Marshall_Resume_2025.pdf)
 
