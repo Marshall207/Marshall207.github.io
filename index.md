@@ -7,7 +7,7 @@ Mechanical Engineer — Product Development • Microfluidics • Robotics
 
 I design, build, and validate hardware systems—from microfluidic devices and test rigs to lab-automation fixtures.
 
-[Download my resume](/resume/Thomas_Marshall_Resume_2025.pdf) • [About me →](/about.md) • [Contact →](/contact.md)
+[Download my resume]({{ '/resume/Thomas_Marshall_Resume_2025.pdf' | relative_url }})  • [About me →](/about.md) • [Contact →](/contact.md)
 
 ---
 
