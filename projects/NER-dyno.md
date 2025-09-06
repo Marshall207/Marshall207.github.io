@@ -1,5 +1,6 @@
 ---
 title: Northeastern Electric Racing Dyno
+permalink: /projects/ner-dyno/
 ---
 
 # Northeastern Electric Racing Dyno
