@@ -1,6 +1,4 @@
 title: "Thomas Marshall"
 description: "Mechanical engineering portfolio — microfluidics, test, automation"
-theme: jekyll-theme-minimal
-
-# Optional (works with the 'minimal' theme):
-logo: /images/headshot.jpg
+theme: jekyll-theme-cayman
+show_downloads: false
